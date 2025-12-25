@@ -25,6 +25,8 @@
 👁️ Open to <strong>Open Source & Freelance Opportunities</strong>
 
 ---
+https://github.com/eh424236-alt
+USERNAME = Eslam Hashem
 
 <details>
   <summary><b>🛠 Tech Stack</b></summary>
